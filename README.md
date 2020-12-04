@@ -6,7 +6,7 @@
   I am currently working on my undergraduate thesis about optical mark recognition with Python and OpenCV.
 <p> 
 <a >
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sametuluerr&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmetkkn07&count_private=true&show_icons=true" />
 </a><a>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkkn07" />
 </a>
