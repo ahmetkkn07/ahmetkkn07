@@ -5,7 +5,7 @@
   
   I am currently working on my undergraduate thesis about optical mark recognition with Python and OpenCV.
   
-  #### [CV](https://github.com/ahmetkkn07/ahmetkkn07/blob/main/CV/Ahmet%20KO%CC%88KEN%20CV%20EN.pdf)
+  #### [My CV is here](https://github.com/ahmetkkn07/ahmetkkn07/blob/main/CV/Ahmet%20KO%CC%88KEN%20CV%20EN.pdf)
 </p> 
 <a >
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmetkkn07&count_private=true&show_icons=true" />
