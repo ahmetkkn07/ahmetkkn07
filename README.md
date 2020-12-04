@@ -10,3 +10,6 @@
 </a><a>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkkn07" />
 </a>
+
+[CV_EN](https://github.com/ahmetkkn07/ahmetkkn07/blob/main/CV/Ahmet%20KO%CC%88KEN%20CV%20EN.pdf)
+[CV_TR](https://github.com/ahmetkkn07/ahmetkkn07/blob/main/CV/Ahmet%20KO%CC%88KEN%20CV%20TR.pdf)
