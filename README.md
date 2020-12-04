@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋  I'm Ahmet
 
-<!--
-**ahmetkkn07/ahmetkkn07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  I am currently a fourth year computer engineering student. I like to solve problems. I am curious and I can learn programming languages and technologies that I don’t know. I follow the news about new computer hardware. I am interested in. BackEnd, FrontEnd development, OOP, and developing embedded systems. Also I like to take nature photos and I am interested in Hackintosh.
+  
+  I am currently working on my undergraduate thesis about optical mark recognition with Python and OpenCV.
+  
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p> 
+<a >
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmetkkn07&count_private=true&show_icons=true" />
+</a>
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkkn07" />
+</a>
