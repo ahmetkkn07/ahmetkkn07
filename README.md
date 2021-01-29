@@ -7,8 +7,3 @@
   
   #### [My CV is here](https://github.com/ahmetkkn07/ahmetkkn07/blob/main/CV/Ahmet%20KO%CC%88KEN%20CV%20EN.pdf)
 </p> 
-<a >
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmetkkn07&count_private=true&show_icons=true" />
-</a><a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkkn07&langs_count=10" />
-</a>
